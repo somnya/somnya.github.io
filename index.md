@@ -4,4 +4,4 @@ layout: default
 
 # Hello!
 
-[My CV here](somnya.github.io/cv/) 
+[My CV here](https://somnya.github.io/cv/) 
