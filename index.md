@@ -1,3 +1,6 @@
+title: [Eddy Mendoza-Galindo] ![Image](pic.jpg)
+description: [A short description of your site's purpose]
+
 # Hello!
 ![Image](pic.jpg)
 
