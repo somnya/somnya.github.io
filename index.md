@@ -3,6 +3,6 @@ layout: default
 title: Eddy Mendoza-Galindo
 ---
 ![Image](agave_pan.jpg)
-# Hello!
+# Research
 
-[My CV here](https://somnya.github.io/cv/) 
+I am working on Evolutionary and Population genomics of the tequila Plant, *Agave*. 
