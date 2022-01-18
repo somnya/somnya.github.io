@@ -9,10 +9,10 @@ I am working on Evolutionary and Population genomics of the tequila Plant, *Agav
 Currently enrolled at the Agri-Genomic Sciences Bachelor´s degree at UNAM (MX).
 I am a member of the Tania Hernández-Hernández Lab at Desert Botanical Garden (US) and LANGEBIO (MX).
 
-![Image](fellows-pam.jpg)
+![Image](fellows-pam.png)
 # [My contributions to the ASPB Plantae Fellows program](somnya.github.io/plantae/)
 
-![Image](fellow-pam.jpg)
+![Image](fellow-pam.png)
 # [The Fitoman Journeys (Spanish)](somnya.github.io/fitoman/)
 
 Fitoman is a superhero who knows everything about plants!
