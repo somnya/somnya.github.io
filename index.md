@@ -5,9 +5,7 @@ title: Eddy Mendoza-Galindo
 ![Image](agave_pan.jpg)
 # Research
 
-I am working on Evolutionary and Population genomics of the tequila Plant, *Agave*. 
-Currently enrolled at the Agri-Genomic Sciences Bachelor´s degree at UNAM (MX).
-I am a member of the Tania Hernández-Hernández Lab at Desert Botanical Garden (US) and LANGEBIO (MX).
+I am working on the Evolutionary and Population genomics of the tequila Plant, *Agave*, in the Tania Hernández-Hernández Lab at Desert Botanical Garden (US).
 
 ![Image](fellows-pan.png)
 # [My contributions to the ASPB Plantae Fellows program](https://somnya.github.io/plantae/)
